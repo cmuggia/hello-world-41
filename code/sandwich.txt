@@ -1,0 +1,15 @@
+estimate: 15 lines
+choose one slice of bread 
+lay it on the table 
+choose a second slice of bread 
+lay it on the table beside the other slice 
+pick up a knife 
+put it into the peanut butter 
+pull out the knife 
+spread the peanut butter on one piece of bread 
+take the knife off the bread
+put the knife into the jelly 
+take the knife out and spread it on the other piece of bread 
+use your hands and pick up both pieces of bread 
+put them together with the jam and peanut butter facing one another 
+you now have a peanut butter and jelly sandwich 
